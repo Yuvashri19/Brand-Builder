@@ -1,0 +1,6 @@
+{
+  "name": "Brand Builder",
+  "description": "Visualize your product ideas consistently across multiple mediums including billboards, newspapers, and social media posts, powered by Gemini image generation without human distraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
